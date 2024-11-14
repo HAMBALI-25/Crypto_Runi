@@ -1,13 +1,8 @@
 ## Crypto_Runi :
 
-Here Software
-Crypto Runi Mobile
+Here Software version Mobile
+Crypto_Runi.apk Mobile
 
-
-</p>
-<p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-083128356342-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
 
 <img src="Crypto_Runi_1.png">
 
@@ -74,7 +69,7 @@ TYPES OF LICENSE:
 
 ❗️TEST PERIOD  - $80 / 1 day
 
-👨‍💻BUY LICENSE
+👨‍💻 BUY LICENSE
 
 
 ## Crypto_Runi :
@@ -104,30 +99,48 @@ Find wallets with me 👉
 
 <img src="Hambali.png">
 
-# Contact Me And SosialMedia 
+### Hi. I'm Hambali Developers 
 
-• Linkedlin : (HAMBALI)
+Contact Me ☎️
 
-• Facebook  : (Hambali)
-
-• Instagram : (hambali6737)
-
-• telegram  : (@HAMBALI251298)
-
-• Telpon    : (+6283128356342)
+</p>
+<p align="center">
+<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-083128356342-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 
 
+<img src="Hambali.png">
 
-## List of available sites:
+
+## PAYMEN BILLING ACCOUNTING 💸:
 ```
-[01] Facebook     [11] Twitch       [21] DeviantArt
-[02] Instagram    [12] Pinterest    [22] Badoo
-[03] Google       [13] Snapchat     [23] Origin
-[04] Microsoft    [14] Linkedin     [24] CryptoCoin
-[05] Netflix      [15] Ebay         [25] Yahoo
-[06] PayPal       [16] Dropbox      [26] Wordpress
-[07] Steam        [17] Protonmail   [27] Yandex
-[08] Twitter      [18] Spotify      [28] StackoverFlow
-[09] PlayStation  [19] Reddit       [29] VK
-[10] GitHub       [20] Adobe
-```
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 1732415280
+🏛️Bank/Ewallet   : BNI
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 1070020002293
+🏛️Bank/Ewallet   : MANDIRI
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 6125198485
+🏛️Bank/Ewallet   : BCA
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 337901048315530
+🏛️Bank/Ewallet   : BRI
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 7250360393
+🏛️Bank/Ewallet   : BSI
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 083128356342
+🏛️Bank/Ewallet   : PAYPAL
+📞No/Hp/Wa       : 083128356342

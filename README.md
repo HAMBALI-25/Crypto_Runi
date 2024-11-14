@@ -1,5 +1,9 @@
 ## Crypto_Runi : 
 <img src="Crypto_Runi_1.png">
+
+## Crypto_Runi : 
+https://reverseuniverse.net/
+
 💵 I would like to introduce you to our mnemonic bruteforcing app. This is not a new method of earning, but still very effective
 
 Any crypto address has its mnemonic phrase, which consists of 12 words. Knowing it you can get full access to the wallet. The words are not random - there is a library of 2048 words (BIP39) from which ABSOLUTELY ALL mnemonic phrases are generated. Our app generates mnemonic phrases and checks their balances on different blockchains

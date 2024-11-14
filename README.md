@@ -1,7 +1,7 @@
 ## Crypto_Runi :
 
 Here Software version Mobile
-Crypto_Runi.apk Mobile
+Crypto_Runi.apk
 
 
 <img src="Crypto_Runi_1.png">
@@ -94,10 +94,6 @@ Find wallets with me 👉
 
 <img src="Promo_Discount_3.png">
 💸 Free Discount Only 
-
-### Hi. I'm Hambali Developers 
-
-<img src="Hambali.png">
 
 ### Hi. I'm Hambali Developers 
 
